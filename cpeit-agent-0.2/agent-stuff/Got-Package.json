@@ -1,0 +1,2787 @@
+﻿[
+    {
+        "Name":  "7-Zip 22.01 (x64)",
+        "Version":  "22.01",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Extensibility Component",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Localization Component",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Extensibility Component 64-bit Registration",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Cisco Webex Meetings",
+        "Version":  "42.9.7",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Greenshot 1.2.10.6",
+        "Version":  "1.2.10.6",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+        "Version":  null,
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+        "Version":  "2.0.50728",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Licensing Component",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_tipsmsi",
+        "Version":  "17.0.31804",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Redline",
+        "Version":  "2.0.100",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Metadata",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows Desktop Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft VC++ redistributables repacked.",
+        "Version":  "12.0.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "MSI Development Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Mozilla Firefox (x64 en-US)",
+        "Version":  "111.0.1",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Strawberry Perl (64-bit)",
+        "Version":  "5.32.1001",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense UAP - en-us",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Mozilla Maintenance Service",
+        "Version":  "104.0.1",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools x64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+        "Version":  "10.0.40219",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+        "Version":  "40.68.31219",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+        "Version":  "5.0.17.31219",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Process Hacker 2.39 (r124)",
+        "Version":  "2.39.0.124",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "AccessData Forensic Toolkit 6.2",
+        "Version":  "6.2.1.10",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Update Health Tools",
+        "Version":  "3.70.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Project Professional 2019 - en-us",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.31.31103",
+        "Version":  "14.31.31103",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_communityx64msi",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Office Professional Plus 2019 - en-us",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "vs_devenvsharedmsi",
+        "Version":  "17.0.31804",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Chipset Device Software",
+        "Version":  "10.1.18121.8164",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Chipset Device Software",
+        "Version":  "10.1.18121.8164",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Libs",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Add to Path (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_Graphics_Singletonx86",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Serial IO",
+        "Version":  "30.100.2020.7",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Serial IO",
+        "Version":  "30.100.2020.7",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Modern Non-Versioned Developer Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visio Professional 2019 - en-us",
+        "Version":  "16.0.10396.20023",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "vs_minshellmsires",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vcpp_crt.redist.clickonce",
+        "Version":  "14.30.30708",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "icecap_collectionresources",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Contracts",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "CodeMeter Runtime Kit v5.21",
+        "Version":  "5.21.1478.500",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2005 Redistributable",
+        "Version":  "8.0.59193",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Standard Library (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.2.3 (64-bit)",
+        "Version":  "3.2.3150",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "PuTTY release 0.77 (64-bit)",
+        "Version":  "0.77.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Test Suite (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs arm64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Universal CRT Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "VMware Remote Console",
+        "Version":  "12.0.2",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Management Engine Components",
+        "Version":  "1.0.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Management Engine Components",
+        "Version":  "2103.15.0.2135",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "vs_filehandler_amd64",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Trusted Connect Service Client x86",
+        "Version":  "1.62.321.1",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Trusted Connect Service Client x64",
+        "Version":  "1.62.321.1",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_minshellsharedmsi",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_minshellx64msi",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "icecap_collection_neutral",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs x86",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Apple Application Support",
+        "Version":  "2.3.6",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers x86",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Magnet AXIOM",
+        "Version":  "6.5.0.32778",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Python 3.10.6 Executables (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Redistributables",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x86)",
+        "Version":  "40.68.31219",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x86)",
+        "Version":  "5.0.17.31219",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+        "Version":  "12.0.21005",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python Launcher",
+        "Version":  "3.10.7882.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+        "Version":  "9.0.30729.6161",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Utility Scripts (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Adobe Acrobat DC (64-bit)",
+        "Version":  "22.2.20212",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Adobe Refresh Manager",
+        "Version":  "1.8.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools x86",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Universal CRT Redistributable",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "SDK ARM Redistributables",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Installer",
+        "Version":  "3.1.2204.3969",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+        "Version":  "12.0.21005",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK DirectX x64 Remote",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers arm",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows App Certification Kit SupportedApiList x86",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense Desktop - Other Languages",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Universal General MIDI DLS Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense IoT - Other Languages",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Universal CRT Tools x86",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinAppDeploy",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_minshellinteropx64msi",
+        "Version":  "17.0.31804",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AccessData MPE+",
+        "Version":  "5.6.0.8",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "NVIDIA Graphics Driver 517.37",
+        "Version":  "517.37",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "WinRT Intellisense PPI - Other Languages",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+        "Version":  "11.0.61030",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AccessData PostgreSQL",
+        "Version":  "9.3.5.43",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_CoreEditorFonts",
+        "Version":  "17.0.32802",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "VS JIT Debugger",
+        "Version":  "17.0.114.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_devenx64vmsi",
+        "Version":  "17.0.31804",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Application Verifier x64 External Package",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "VS Immersive Activate Helper",
+        "Version":  "17.0.114.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_Graphics_Singletonx64",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Kits Configuration Installer",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_filehandler_x86",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "VNC Server 6.10.1",
+        "Version":  "6.10.1.47571",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Modern Versioned Developer Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Redis version 2.4.6.0",
+        "Version":  "2.4.6.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "vs_FileTracker_Singleton",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "7+ Taskbar Tweaker v5.14",
+        "Version":  "5.14",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Managed Apps Libs",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Acrylic Suite v1.41",
+        "Version":  null,
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Facade Windows WinMD Versioned",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Acrylic Wi-Fi Analyzer v1.3.8308.24421",
+        "Version":  null,
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows IoT Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Acrylic Wi-Fi Professional v4.5.7802.24822",
+        "Version":  null,
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft .NET Host - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Grammarly for Windows",
+        "Version":  "1.0.21.329",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Python 3.10.6 Documentation (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft OneDrive",
+        "Version":  "23.054.0313.0001",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Vagrant",
+        "Version":  "1.9.1",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Opera Stable 97.0.4719.43",
+        "Version":  "97.0.4719.43",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x64)",
+        "Version":  "48.35.45540",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x64)",
+        "Version":  "6.0.8.31518",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers arm64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x86)",
+        "Version":  "48.35.45540",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x86)",
+        "Version":  "6.0.8.31518",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "icecap_collectionresourcesx64",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Code (User)",
+        "Version":  "1.75.1",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "AccessData FTK Imager",
+        "Version":  "4.7.1.2",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Visual Studio Professional 2022 LTSC 17.0",
+        "Version":  "17.0.13",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Universal CRT Headers Libraries and Sources",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK DirectX x86 Remote",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AnyDesk",
+        "Version":  "ad 7.0.14",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows Team Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "FileZilla 3.60.2",
+        "Version":  "3.60.2",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "icecap_collection_x64",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows Desktop Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Google Chrome",
+        "Version":  "111.0.5563.147",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "vs_communitysharedmsi",
+        "Version":  "17.0.32627",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "K-Lite Codec Pack 7.0.0 (Full)",
+        "Version":  "7.0.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools arm64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Linphone",
+        "Version":  "4.4.1",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows App Certification Kit Native Components",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Edge",
+        "Version":  "111.0.1661.62",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Edge Update",
+        "Version":  "1.3.173.55",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Python 3.10.6 Tcl/Tk Support (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Edge WebView2 Runtime",
+        "Version":  "111.0.1661.62",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Web Deploy 4.0",
+        "Version":  "10.0.5923",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.31.31103",
+        "Version":  "14.31.31103",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Core Interpreter (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Intel(R) Management Engine Driver",
+        "Version":  "1.0.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs arm",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Universal CRT Tools x64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Oracle VM VirtualBox 6.1.36",
+        "Version":  "6.1.36",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Signing Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows Mobile Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft System CLR Types for SQL Server 2019",
+        "Version":  "15.0.2000.5",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Nmap 7.92",
+        "Version":  "7.92",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Setup Configuration",
+        "Version":  "3.1.2200.53929",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 Development Libraries (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+        "Version":  "11.0.61030",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense IoT - en-us",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_communitymsires",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "DiagnosticsHub_CollectionService",
+        "Version":  "16.1.28901",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "vs_minshellinteropsharedmsi",
+        "Version":  "17.0.31808",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK AddOn",
+        "Version":  "10.1.0.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319",
+        "Version":  "10.0.30319",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+        "Version":  "9.0.30729",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "VMware Workstation",
+        "Version":  "16.2.4",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Notepad++ (32-bit x86)",
+        "Version":  "8.4.4",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs x64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK EULA",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Npcap",
+        "Version":  "1.60",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows Mobile Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers x64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "TurboTop 2.8",
+        "Version":  "2.8.0.21",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "VS Script Debugging Common",
+        "Version":  "17.0.114.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK ARM Desktop Tools",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinSCP 5.21.2",
+        "Version":  "5.21.2",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "WinRT Intellisense UAP - Other Languages",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AccessData Registry Viewer",
+        "Version":  "2.0.0.7",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Wireshark 3.6.7 64-bit",
+        "Version":  "3.6.7",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "WinRT Intellisense Mobile - en-us",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Host - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Python 3.10.6 pip Bootstrap (64-bit)",
+        "Version":  "3.10.6150.0",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Apple Mobile Device Support",
+        "Version":  "7.0.0.117",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+        "Version":  "12.0.30501.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "SDK ARM Additions",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AccessData Evidence Processing Engine 10.16",
+        "Version":  "10.16.1.9",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Headers",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "RSyslog Windows Agent 7.3 - Build 221",
+        "Version":  "7.3.0.221",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense Desktop - en-us",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows Team Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows App Certification Kit x64",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Windows IoT Extension SDK",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Setup WMI Provider",
+        "Version":  "3.1.2200.53929",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "WinRT Intellisense PPI - en-us",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Webex",
+        "Version":  "43.1.0.24716",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "Mandiant IOCe",
+        "Version":  "2.1.100",
+        "ProviderName":  "msi"
+    },
+    {
+        "Name":  "AccessData FTK Suite 6.2",
+        "Version":  "6.2.1.10",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103",
+        "Version":  "14.31.31103.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Windows Software Development Kit - Windows 10.0.19041.685",
+        "Version":  "10.1.19041.685",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30708",
+        "Version":  "14.30.30708.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "MPE Smartphone Driver",
+        "Version":  "11.1.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "SUNIX Multi IO Controller",
+        "Version":  "9.0.4.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Visual Node Manager (1.0.7)",
+        "Version":  "1.0.7.621",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+        "Version":  "11.0.61030.0",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Desktop Central - Free Windows Admin Tools",
+        "Version":  "4.0.6",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Realtek Audio Driver",
+        "Version":  "6.0.9228.1",
+        "ProviderName":  "Programs"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1937.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1910.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1867.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1826.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1798.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1745.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1715.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1648.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1595.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell, Inc. - Firmware - 0.1.23.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2302.7)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.977.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.953.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.845.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.839.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5023696)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.111 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.793.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1864.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-02 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5022834)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1751.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1738.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1708.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1651.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1636.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1585.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1573.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1509.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1473.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1379.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1289.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.447.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.440.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.379.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.133.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.104.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.70.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.35.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Apple, Inc. - USBDevice - 486.0.0.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-02 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5022728)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.110 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.26.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2301.6)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell, Inc. - Firmware - 0.1.22.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.3354.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.3318.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-01 Cumulative Update Preview for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5022476)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.3043.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.3011.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.3003.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2998.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-01 Update for Windows 10 Version 21H2 for x64-based Systems (KB4023057)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2696.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2424.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2347.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2325.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2295.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2277.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2244.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2234.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2198.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2191.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2164.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2152.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2114.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2023-01 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5022282)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.109 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.2107.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1994.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1990.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1952.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1946.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1907.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1860.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1819.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1802.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1771.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1746.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1720.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1691.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1658.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1629.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1595.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1557.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1526.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1498.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1474.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1435.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1413.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1372.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1355.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1309.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1292.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1237.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1226.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1179.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1161.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1103.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1101.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1048.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.1042.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.990.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.951.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.929.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.902.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.872.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.856.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.814.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.787.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.757.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.747.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.688.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.638.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.630.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.579.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.556.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-12 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5021233)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-12 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5021088)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.108 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.529.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.509.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.474.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.459.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.425.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.404.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.372.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.337.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.294.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.281.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.242.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.231.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.218.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.181.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2211.5)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.137.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.80.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.67.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.56.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.14.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1448.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1408.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1364.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1361.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1321.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1310.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1277.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1259.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1226.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1201.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1179.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1116.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1077.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1049.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1034.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.1025.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.987.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.967.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.926.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.917.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.867.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.845.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.801.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.798.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.752.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.745.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.711.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.673.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.667.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.628.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.623.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.586.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.558.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.525.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.473.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.466.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.421.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.409.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.362.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.360.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.325.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.307.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.280.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.254.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.235.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.203.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.184.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.154.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2210.6)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.136.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.104.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.97.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.57.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-11 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5019959)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-11 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5020687)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.107 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.52.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.13.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.379.4.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell, Inc. - Firmware - 0.1.21.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2210.5)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1436.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1405.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1382.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1373.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1343.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1327.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1288.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "NVIDIA - Display - 31.0.15.1737",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1280.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1221.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1191.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1185.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1139.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2210.4)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1132.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1102.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1084.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1049.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.1043.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.999.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.940.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.895.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.889.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.859.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.833.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.806.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.791.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.757.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.735.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.710.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.658.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.636.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.617.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.589.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.550.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.540.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.509.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.488.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.451.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.430.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.402.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.379.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.341.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.332.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.281.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.251.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.228.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.201.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2209.7)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.154.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.146.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5018410)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-10 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5018545)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.106 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.90.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.377.44.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1852.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1834.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1795.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1792.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1750.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1690.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1638.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1635.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1594.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1566.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1528.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1506.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1451.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1442.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1391.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1386.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1365.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1326.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1308.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1243.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1229.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1215.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1172.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1155.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.1101.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.782.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.781.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.728.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.722.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.673.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.645.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.617.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.588.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.572.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.529.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.515.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.478.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.458.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.414.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.378.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-09 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5017308)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-09 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5017500)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Windows Malicious Software Removal Tool x64 - v5.105 (KB890830)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell, Inc. - Firmware - 0.1.20.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.353.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.27.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.375.8.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1693.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2207.7)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1659.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1641.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1593.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1583.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1530.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1524.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1478.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1472.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "9NB9SRTL2KPT-WavesAudio.WavesMaxxAudioProforDell",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "9NBLGGH3FRZM-Microsoft.VCLibs.140.00",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "9MTW6RN84LVM-Microsoft.NET.Native.Runtime.1.7",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "9NZM7B1BB5TR-Microsoft.NET.Native.Framework.1.7",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-08 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5016616)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.373.1427.0)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Waves - SoftwareComponent - 3.2.0.90",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "2022-04 Update for Windows 10 Version 21H2 for x64-based Systems (KB4023057)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell, Inc. - Firmware - 0.1.17.0",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Realtek Semiconductor Corp. - Extension - 6.0.9235.1",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Realtek Semiconductor Corp. - MEDIA - 6.0.9235.1",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Dell - Extension - 6/4/2019 12:00:00 AM - 1.3.2.281",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2205.7)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Update for Windows Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2001.10)",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "9NF8H0H7WMLT-NVIDIACorp.NVIDIAControlPanel",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Intel - SoftwareComponent - 2130.1.16.1",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Intel - SoftwareComponent - 1.63.1155.1",
+        "Version":  null,
+        "ProviderName":  "msu"
+    },
+    {
+        "Name":  "Intel - SoftwareComponent - 1.41.2021.121",
+        "Version":  null,
+        "ProviderName":  "msu"
+    }
+]
