@@ -1,0 +1,1213 @@
+﻿[
+    {
+        "Name":  "Webex",
+        "Version":  "43.1.0.24716",
+        "Vendor":  "Cisco Systems, Inc",
+        "InstallDate":  "20230201",
+        "InstallLocation":  "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Cisco Spark\\"
+    },
+    {
+        "Name":  "Mandiant IOCe",
+        "Version":  "2.1.100",
+        "Vendor":  "Mandiant",
+        "InstallDate":  "20221016",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Extensibility Component",
+        "Version":  "16.0.10396.20023",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20230322",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Localization Component",
+        "Version":  "16.0.10396.20023",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20230322",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Extensibility Component 64-bit Registration",
+        "Version":  "16.0.10396.20023",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20230322",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Office 16 Click-to-Run Licensing Component",
+        "Version":  "16.0.10396.20023",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20230322",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_tipsmsi",
+        "Version":  "17.0.31804",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Redline",
+        "Version":  "2.0.100",
+        "Vendor":  "FireEye",
+        "InstallDate":  "20221207",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Metadata",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Desktop Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft VC++ redistributables repacked.",
+        "Version":  "12.0.0.0",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "MSI Development Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Strawberry Perl (64-bit)",
+        "Version":  "5.32.1001",
+        "Vendor":  "strawberryperl.com project",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Strawberry\\"
+    },
+    {
+        "Name":  "WinRT Intellisense UAP - en-us",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools x64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+        "Version":  "10.0.40219",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+        "Version":  "40.68.31219",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData Forensic Toolkit 6.2",
+        "Version":  "6.2.1.10",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files\\AccessData\\"
+    },
+    {
+        "Name":  "Microsoft Update Health Tools",
+        "Version":  "3.70.0.0",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20230125",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.31.31103",
+        "Version":  "14.31.31103",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_communityx64msi",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_devenvsharedmsi",
+        "Version":  "17.0.31804",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Chipset Device Software",
+        "Version":  "10.1.18121.8164",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Libs",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Add to Path (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_Graphics_Singletonx86",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Serial IO",
+        "Version":  "30.100.2020.7",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Modern Non-Versioned Developer Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_minshellmsires",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vcpp_crt.redist.clickonce",
+        "Version":  "14.30.30708",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "icecap_collectionresources",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Contracts",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "CodeMeter Runtime Kit v5.21",
+        "Version":  "5.21.1478.500",
+        "Vendor":  "WIBU-SYSTEMS AG",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files (x86)\\CodeMeter\\"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2005 Redistributable",
+        "Version":  "8.0.59193",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Standard Library (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.2.3 (64-bit)",
+        "Version":  "3.2.3150",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "PuTTY release 0.77 (64-bit)",
+        "Version":  "0.77.0.0",
+        "Vendor":  "Simon Tatham",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Test Suite (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs arm64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Universal CRT Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VMware Remote Console",
+        "Version":  "12.0.2",
+        "Vendor":  "VMware, Inc.",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Management Engine Components",
+        "Version":  "1.0.0.0",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_filehandler_amd64",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Trusted Connect Service Client x86",
+        "Version":  "1.62.321.1",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Trusted Connect Service Client x64",
+        "Version":  "1.62.321.1",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_minshellsharedmsi",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_minshellx64msi",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "icecap_collection_neutral",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs x86",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Apple Application Support",
+        "Version":  "2.3.6",
+        "Vendor":  "Apple Inc.",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files (x86)\\Common Files\\Apple\\Apple Application Support\\"
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers x86",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Executables (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Redistributables",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 5.0.17 (x86)",
+        "Version":  "40.68.31219",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+        "Version":  "12.0.21005",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python Launcher",
+        "Version":  "3.10.7882.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+        "Version":  "9.0.30729.6161",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Utility Scripts (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Adobe Acrobat DC (64-bit)",
+        "Version":  "22.002.20212",
+        "Vendor":  "Adobe",
+        "InstallDate":  "20220914",
+        "InstallLocation":  "C:\\Program Files\\Adobe\\Acrobat DC\\"
+    },
+    {
+        "Name":  "Adobe Refresh Manager",
+        "Version":  "1.8.0",
+        "Vendor":  "Adobe Systems Incorporated",
+        "InstallDate":  "20220930",
+        "InstallLocation":  "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\"
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools x86",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Universal CRT Redistributable",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "SDK ARM Redistributables",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+        "Version":  "12.0.21005",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK DirectX x64 Remote",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers arm",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows App Certification Kit SupportedApiList x86",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense Desktop - Other Languages",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Universal General MIDI DLS Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense IoT - Other Languages",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Universal CRT Tools x86",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinAppDeploy",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_minshellinteropx64msi",
+        "Version":  "17.0.31804",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData MPE+",
+        "Version":  "5.6.0.8",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files (x86)\\AccessData\\"
+    },
+    {
+        "Name":  "WinRT Intellisense PPI - Other Languages",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+        "Version":  "11.0.61030",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData PostgreSQL",
+        "Version":  "9.3.5.43",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files\\AccessData\\"
+    },
+    {
+        "Name":  "vs_CoreEditorFonts",
+        "Version":  "17.0.32802",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VS JIT Debugger",
+        "Version":  "17.0.114.0",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_devenx64vmsi",
+        "Version":  "17.0.31804",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Application Verifier x64 External Package",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VS Immersive Activate Helper",
+        "Version":  "17.0.114.0",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_Graphics_Singletonx64",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Kits Configuration Installer",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_filehandler_x86",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VNC Server 6.10.1",
+        "Version":  "6.10.1.47571",
+        "Vendor":  "RealVNC",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Modern Versioned Developer Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_FileTracker_Singleton",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Managed Apps Libs",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Facade Windows WinMD Versioned",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows IoT Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  null,
+        "Version":  null,
+        "Vendor":  null,
+        "InstallDate":  null,
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Documentation (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Vagrant",
+        "Version":  "1.9.1",
+        "Vendor":  "HashiCorp",
+        "InstallDate":  "20230310",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x64)",
+        "Version":  "48.35.45540",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers arm64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 6.0.8 (x86)",
+        "Version":  "48.35.45540",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "icecap_collectionresourcesx64",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData FTK Imager",
+        "Version":  "4.7.1.2",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20221210",
+        "InstallLocation":  "C:\\Program Files\\AccessData\\"
+    },
+    {
+        "Name":  "Universal CRT Headers Libraries and Sources",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK DirectX x86 Remote",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Team Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "icecap_collection_x64",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Desktop Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_communitysharedmsi",
+        "Version":  "17.0.32627",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Tools arm64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows App Certification Kit Native Components",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.30.30708",
+        "Version":  "14.30.30708",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Tcl/Tk Support (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Web Deploy 4.0",
+        "Version":  "10.0.5923",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.31.31103",
+        "Version":  "14.31.31103",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Core Interpreter (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Intel(R) Management Engine Driver",
+        "Version":  "1.0.0.0",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs arm",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host FX Resolver - 5.0.17 (x86)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Universal CRT Tools x64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Oracle VM VirtualBox 6.1.36",
+        "Version":  "6.1.36",
+        "Vendor":  "Oracle Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Signing Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Mobile Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft System CLR Types for SQL Server 2019",
+        "Version":  "15.0.2000.5",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual Studio Setup Configuration",
+        "Version":  "3.1.2200.53929",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 Development Libraries (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+        "Version":  "11.0.61030",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense IoT - en-us",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_communitymsires",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft VC++ redistributables repacked.",
+        "Version":  "12.0.0.0",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "DiagnosticsHub_CollectionService",
+        "Version":  "16.1.28901",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "vs_minshellinteropsharedmsi",
+        "Version":  "17.0.31808",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK AddOn",
+        "Version":  "10.1.0.0",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319",
+        "Version":  "10.0.30319",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+        "Version":  "9.0.30729",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VMware Workstation",
+        "Version":  "16.2.4",
+        "Vendor":  "VMware, Inc.",
+        "InstallDate":  "20220927",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Libs x64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK EULA",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporations",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 6.0.8 (x86)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Mobile Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK Desktop Headers x64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "VS Script Debugging Common",
+        "Version":  "17.0.114.0",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows SDK ARM Desktop Tools",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense UAP - Other Languages",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData Registry Viewer",
+        "Version":  "2.0.0.7",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files (x86)\\AccessData\\"
+    },
+    {
+        "Name":  "WinRT Intellisense Mobile - en-us",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Host - 5.0.17 (x64)",
+        "Version":  "40.68.31213",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Python 3.10.6 pip Bootstrap (64-bit)",
+        "Version":  "3.10.6150.0",
+        "Vendor":  "Python Software Foundation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Apple Mobile Device Support",
+        "Version":  "7.0.0.117",
+        "Vendor":  "Apple Inc.",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files (x86)\\Common Files\\Apple\\Mobile Device Support\\"
+    },
+    {
+        "Name":  "Intel(R) Management Engine Components",
+        "Version":  "1.0.0.0",
+        "Vendor":  "Intel Corporation",
+        "InstallDate":  "20220826",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "SDK ARM Additions",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+        "Version":  "2.0.50728",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "AccessData Evidence Processing Engine 10.16",
+        "Version":  "10.16.1.9",
+        "Vendor":  "AccessData",
+        "InstallDate":  "20220831",
+        "InstallLocation":  "C:\\Program Files\\AccessData\\"
+    },
+    {
+        "Name":  "Windows SDK for Windows Store Apps Headers",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "RSyslog Windows Agent 7.3 - Build 221",
+        "Version":  "7.3.0.221",
+        "Vendor":  "Adiscon GmbH",
+        "InstallDate":  "20221201",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense Desktop - en-us",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft .NET Runtime - 6.0.8 (x64)",
+        "Version":  "48.35.45462",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows Team Extension SDK Contracts",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows App Certification Kit x64",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Windows IoT Extension SDK",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "Microsoft Visual Studio Setup WMI Provider",
+        "Version":  "3.1.2200.53929",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    },
+    {
+        "Name":  "WinRT Intellisense PPI - en-us",
+        "Version":  "10.1.19041.685",
+        "Vendor":  "Microsoft Corporation",
+        "InstallDate":  "20220831",
+        "InstallLocation":  null
+    }
+]
