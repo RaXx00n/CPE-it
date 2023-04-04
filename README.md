@@ -3,7 +3,7 @@
 CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project
 
 
-CPEit project consists of two components under development:
+CPEit consists of two components under development:
 
   *An Agent containing scripts that gather information on the software installed on a machine from multiple system sourcs,
   makes an educated guess on potential CPEs, and prepares them for ingestion into Elastic.
