@@ -1,12 +1,5 @@
 
-
-______________________________.__  __   
-\_   ___ \______   \_   _____/|__|/  |_ 
-/    \  \/|     ___/|    __)_ |  \   __\
-\     \___|    |    |        \|  ||  |  
- \______  /____|   /_______  /|__||__|  
-        \/                 \/           
-CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project
+<b>CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
 
 
 CPEit consists of two components under development:
@@ -19,9 +12,9 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-INSTALL AND CONFIGURE THE ELK STACK
+<b>INSTALL AND CONFIGURE THE ELK STACK</b>
 
-  INSTALL ELASTICSEARCH
+<b>INSTALL ELASTICSEARCH</b>
 
 <code>apt-get install elasticsearch</code>
 
@@ -42,7 +35,7 @@ Verify Elasticsearch is running by navigating to http://localhost:9200 in your w
 
 
 
-   INSTALL LOGSTASH
+<b>INSTALL LOGSTASH</b>
 
 <code>apt-get install logstash</code>
 
@@ -57,7 +50,7 @@ If you encounter permissions errors you may need to open permissons with the fol
 
 
 
-   INSTALL KIBANA
+<b>INSTALL KIBANA</b>
 
 <code>apt-get install kibana</code>
 
@@ -66,7 +59,7 @@ Test running Kibana from the installation directory (by default /usr/share/kiban
 
 If you encounter permissions errors you may need to open permissions with the following command:
 
-<code> chmod -R 777 /usr/share/kibana/</code>
+<code>chmod -R 777 /usr/share/kibana/</code>
 
 If you are missing Kibana.yml, it can be found at the Kibana repository here: [repo]
 and placed at:
@@ -76,9 +69,9 @@ With all three components of the ELK stack running, you should be able to go to 
 
 
 
-   EXPERIMENTAL STEP
 
-      ADD FINGERPRINT PLUGIN TO LOGSTASH
+
+<b>EXPERIMENTAL STEP ADD FINGERPRINT PLUGIN TO LOGSTASH</b>
 
 Navigate to /usr/share/logstash/ and run:
 
@@ -86,7 +79,7 @@ Navigate to /usr/share/logstash/ and run:
 
 If you get an error about not being able to write to Gemfile you will need to open permissions with:
 
-<code> chmod 777 Gemfile
+<code>chmod 777 Gemfile
 chmod 777 Gemfile.lock </code>
 
 
