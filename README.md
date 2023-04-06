@@ -23,11 +23,11 @@ INSTALL AND CONFIGURE THE ELK STACK
 
   INSTALL ELASTICSEARCH
 
->apt-get install elasticsearch
+<code>apt-get install elasticsearch</code>
 
 Test running elasticsearch by navigating to the installation path (the example of /usr/share/elasticsearch/ will be used in this README) 
 and run 
->./bin/elasticsearch
+<code>./bin/elasticsearch</code>
 
 If you get errors for missing config files, the default elasticsearch.yml and log4j2.properties files can be found in the Elasticsearch repo here: [repo]
 and placed at: 
