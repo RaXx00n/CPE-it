@@ -12,9 +12,9 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-<b>INSTALL AND CONFIGURE THE ELK STACK</b>
+<b>SETTING UP THE ELK STACK</b>
 
-<b>INSTALL ELASTICSEARCH</b>
+<b>Installing Elasticsearch</b>
 
 <code>apt-get install elasticsearch</code>
 
@@ -33,9 +33,7 @@ You may need to configure elasticsearch.yml with the @path.data@ and @path.logs@
 Verify Elasticsearch is running by navigating to http://localhost:9200 in your web browser. You should see a JSON response that contains basic information about your installation.
 
 
-
-
-<b>INSTALL LOGSTASH</b>
+<b>Installing Logstash</b>
 
 <code>apt-get install logstash</code>
 
@@ -46,11 +44,19 @@ Test runnng logstash from the installation directory (by default /usr/share/logs
 If you encounter permissions errors you may need to open permissons with the following commands:
 
 <code>chmod -R 777 /var/log/logstash
- chmod -R 777 /var/lib/logstash</code>
+chmod -R 777 /var/lib/logstash</code>
+
+Finally, Logstash will require the Filter Fingerprint plugin. Navigate to /usr/share/logstash/ and run:
+
+<code>./bin/logstash-plugin install logstash-filter-fingerprint</code>
+
+If you get an error about not being able to write to Gemfile you will need to open permissions with:
+
+<code>chmod 777 Gemfile
+chmod 777 Gemfile.lock </code>
 
 
-
-<b>INSTALL KIBANA</b>
+<b>Installing Kibana</b>
 
 <code>apt-get install kibana</code>
 
@@ -67,31 +73,3 @@ and placed at:
 
 With all three components of the ELK stack running, you should be able to go to 127.0.0.1:5601 on your browser and see the Dashboard. Click on Analytics > Discover and verify that your data has been ingested from the JSON file.
 
-
-
-
-
-<b>EXPERIMENTAL STEP ADD FINGERPRINT PLUGIN TO LOGSTASH</b>
-
-Navigate to /usr/share/logstash/ and run:
-
-<code>./bin/logstash-plugin install logstash-filter-fingerprint</code>
-
-If you get an error about not being able to write to Gemfile you will need to open permissions with:
-
-<code>chmod 777 Gemfile
-chmod 777 Gemfile.lock </code>
-
-
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-               
-                                                                                                
-                                                                                                
-                                                                                                
