@@ -44,33 +44,33 @@ Verify Elasticsearch is running by navigating to http://localhost:9200 in your w
 
    INSTALL LOGSTASH
 
->apt-get install logstash
+<code>apt-get install logstash</code>
 
 Test runnng logstash from the installation directory (by default /usr/share/logstash/) with the command:
 
->./bin/logstash -f /usr/share/logstash/logstash.conf --path.settings /etc/logstash
+<code>./bin/logstash -f /usr/share/logstash/logstash.conf --path.settings /etc/logstash</code>
 
 If you encounter permissions errors you may need to open permissons with the following commands:
 
->chmod -R 777 /var/log/logstash
->chmod -R 777 /var/lib/logstash
+<code>chmod -R 777 /var/log/logstash
+ chmod -R 777 /var/lib/logstash</code>
 
 
 
    INSTALL KIBANA
 
->apt-get install kibana
+<code>apt-get install kibana</code>
 
 Test running Kibana from the installation directory (by default /usr/share/kibana) with the command:
->./bin/kibana
+<code>./bin/kibana</code>
 
 If you encounter permissions errors you may need to open permissions with the following command:
 
->chmod -R 777 /usr/share/kibana/
+<code> chmod -R 777 /usr/share/kibana/</code>
 
 If you are missing Kibana.yml, it can be found at the Kibana repository here: [repo]
 and placed at:
-/usr/share/kibana/config/kibana.yml (you may need to create this directory)
+<code>/usr/share/kibana/config/kibana.yml</code> (you may need to create this directory)
 
 With all three components of the ELK stack running, you should be able to go to 127.0.0.1:5601 on your browser and see the Dashboard. Click on Analytics > Discover and verify that your data has been ingested from the JSON file.
 
@@ -80,17 +80,14 @@ With all three components of the ELK stack running, you should be able to go to 
 
       ADD FINGERPRINT PLUGIN TO LOGSTASH
 
-Navigate to /usr/share/logstash and run:
+Navigate to /usr/share/logstash/ and run:
 
->./bin/logstash-plugin install logstash-filter-fingerprint
+<code>./bin/logstash-plugin install logstash-filter-fingerprint</code>
 
 If you get an error about not being able to write to Gemfile you will need to open permissions with:
 
->chmod 777 Gemfile
-
-and 
-
->chmod 777 Gemfile.lock
+<code> chmod 777 Gemfile
+chmod 777 Gemfile.lock </code>
 
 
                                                                               
