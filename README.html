@@ -6,9 +6,6 @@ ______________________________.__  __
 \     \___|    |    |        \|  ||  |  
  \______  /____|   /_______  /|__||__|  
         \/                 \/           
-
-                                    
-           
 CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project
 
 
@@ -22,11 +19,9 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-  INSTALL AND CONFIGURE THE ELK STACK
+INSTALL AND CONFIGURE THE ELK STACK
 
-
-
-INSTALL ELASTICSEARCH
+  INSTALL ELASTICSEARCH
 
 >apt-get install elasticsearch
 
@@ -47,7 +42,7 @@ Verify Elasticsearch is running by navigating to http://localhost:9200 in your w
 
 
 
-INSTALL LOGSTASH
+   INSTALL LOGSTASH
 
 >apt-get install logstash
 
@@ -62,7 +57,7 @@ If you encounter permissions errors you may need to open permissons with the fol
 
 
 
-INSTALL KIBANA
+   INSTALL KIBANA
 
 >apt-get install kibana
 
@@ -80,10 +75,10 @@ and placed at:
 With all three components of the ELK stack running, you should be able to go to 127.0.0.1:5601 on your browser and see the Dashboard. Click on Analytics > Discover and verify that your data has been ingested from the JSON file.
 
 
-OPTIONAL
 
+   EXPERIMENTAL STEP
 
-ADD FINGERPRINT PLUGIN TO LOGSTASH
+      ADD FINGERPRINT PLUGIN TO LOGSTASH
 
 Navigate to /usr/share/logstash and run:
 
