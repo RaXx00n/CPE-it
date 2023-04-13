@@ -4,6 +4,14 @@ Installing Elasticsearch, Kibana, and Logstash...
 
 "
 
+
+wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo gpg --dearmor -o /usr/share/keyrings/elasticsearch-keyring.gpg
+sudo apt-get install apt-transport-https
+echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://artifacts.elastic.co/packages/8.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-8.x.list
+
+
+
+
 sudo apt-get install elasticsearch kibana logstash
 
 sudo chmod -R 777 /var/log/logstash /var/lib/logstash /usr/share/logstash/ /usr/share/kibana /usr/share/elasticsearch/ /etc/elasticsearch/ /var/lib/elasticsearch/ /var/log/elasticsearch/
