@@ -73,19 +73,23 @@ With all three components of the ELK stack running, you should be able to go to 
 
 ## <b>Configure the ELK Stack for authentication</b>
 
-Note the password generated from the command below run from /usr/share/elasticsearch/bin/
+Start logstash with
 
- <code>./elasticsearch-reset-password elastic</code>
+<code>/usr/share/logstash/bin/logstash -f /usr/share/logstash/logstash.conf --path.settings /etc/logstash</code>
+
+Note the password generated from running:
+
+ <code>/usr/share/elasticsearch/bin/elasticsearch-reset-password elastic</code>
  
  Copy and paste the password into the password field in /usr/share/logstash/logstash.conf
  
- Note the enrollment token generated from the command below run from /usr/share/elasticsearch/bin/
+ Note the enrollment token generated from the command below:
  
- <code>./elasticsearch-create-enrollment-token --url https://127.0.0.1:9200 -s kibana</code>
+ <code>/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana</code>
  
- Navigate to 127.0.0.1:5601 and paste this token in, then you may need to run the following command from /usr/share/kibana/bin:
+ Navigate to 127.0.0.1:5601 and paste this token in, and then run the below for the Kibana verification code:
  
- <code>./kibana-verification-code</code>
+ <code>/usr/share/kibana/bin/kibana-verification-code</code>
 
 This is the code to connect Kibana back to Elasticsearch.
 
