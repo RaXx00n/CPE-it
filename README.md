@@ -20,7 +20,7 @@ The manual section below exists for troubleshooting and reference in potential s
 
 
 
-### Manually installing up the ELK stack
+### Manually method (reference and incomplete, please use install.sh):
 
 Install Elasticsearch from the repo with:
 
