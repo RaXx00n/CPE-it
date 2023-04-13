@@ -89,7 +89,7 @@ Note the password generated from running:
  
  Navigate to 127.0.0.1:5601 and paste this token in, and then run the below for the Kibana verification code:
  
- <code>/usr/share/kibana/bin/kibana-verification-code</code>
+ <code>sudo /usr/share/kibana/bin/kibana-verification-code</code>
 
 This is the code to connect Kibana back to Elasticsearch.
 
