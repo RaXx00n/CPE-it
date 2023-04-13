@@ -1,5 +1,5 @@
 
-<b>CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
+# <b> CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
 
 
 CPEit consists of two components under development:
@@ -12,15 +12,17 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-<b>Install the ELK Stack</b>
+## <b>Install the ELK Stack</b>
 
-NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root. You can then skip to "configure ELK stack for authentication"
+<b> NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root. You can then skip to "configure ELK stack for authentication". </b>
+
+The manual section below exists for troubleshooting and reference in potential script changes. It is also missing some steps.
 
 
 
+### Manually installing up the ELK stack
 
-
-Install Elasticsearch from the repo:
+Install Elasticsearch from the repo with:
 
 <code>apt-get install elasticsearch</code>
 
@@ -38,8 +40,7 @@ You may need to configure elasticsearch.yml with the @path.data@ and @path.logs@
 
 Verify Elasticsearch is running by navigating to http://localhost:9200 in your web browser. You should see a JSON response that contains basic information about your installation.
 
-
-<b>Installing Logstash</b>
+<b>Install Logstash:</b>
 
 <code>apt-get install logstash</code>
 
@@ -70,7 +71,7 @@ and placed at:
 
 With all three components of the ELK stack running, you should be able to go to 127.0.0.1:5601 on your browser and see the Dashboard. Click on Analytics > Discover and verify that your data has been ingested from the JSON file.
 
-<b>Configure the ELK Stack for authentication</b>
+## <b>Configure the ELK Stack for authentication</b>
 
 Note the password generated from the command below run from /usr/share/elasticsearch/bin/
 
