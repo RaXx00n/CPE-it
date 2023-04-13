@@ -79,7 +79,7 @@ Start logstash with
 
 Note the password generated from running:
 
- <code>/usr/share/elasticsearch/bin/elasticsearch-reset-password elastic</code>
+ <code>/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic</code>
  
  Copy and paste the password into the password field in /usr/share/logstash/logstash.conf
  
