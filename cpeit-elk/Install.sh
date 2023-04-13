@@ -32,6 +32,8 @@ sudo echo "
 Installing the Fingerprint filter for Logstash...
 
 "
+sudo cp logstash.conf /usr/share/logstash/logstash.conf
+sudo chmod 777 /usr/share/logstash/logstash.conf
 
 sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-fingerprint
 
