@@ -11,8 +11,7 @@ echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://arti
 
 
 
-
-sudo apt-get install elasticsearch kibana logstash
+sudo apt update && sudo apt-get install elasticsearch kibana logstash
 
 sudo chmod -R 777 /var/log/logstash /var/lib/logstash /usr/share/logstash/ /usr/share/kibana /usr/share/elasticsearch/ /etc/elasticsearch/ /var/lib/elasticsearch/ /var/log/elasticsearch/
   
