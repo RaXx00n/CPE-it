@@ -12,9 +12,9 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-<b>Install and configure the ELK Stack</b>
+<b>Install the ELK Stack</b>
 
-NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root.
+NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root. You can then skip to "configure ELK stack for authentication"
 
 
 
@@ -70,3 +70,25 @@ and placed at:
 
 With all three components of the ELK stack running, you should be able to go to 127.0.0.1:5601 on your browser and see the Dashboard. Click on Analytics > Discover and verify that your data has been ingested from the JSON file.
 
+<b>Configure the ELK Stack for authentication</b>
+
+Note the password generated from the command below run from /usr/share/elasticsearch/bin/
+
+ <code>./elasticsearch-reset-password elastic</code>
+ 
+ Copy and paste the password into the password field in /usr/share/logstash/logstash.conf
+ 
+ Note the enrollment token generated from the command below run from /usr/share/elasticsearch/bin/
+ 
+ <code>./elasticsearch-create-enrollment-token --url https://127.0.0.1:9200 -s kibana</code>
+ 
+ Navigate to 127.0.0.1:5601 and paste this token in, then you may need to run the following command from /usr/share/kibana/bin:
+ 
+ <code>./kibana-verification-code</code>
+
+This is the code to connect Kibana back to Elasticsearch.
+
+Now all three components of the stack should be working and connected to each other and digesting the default path set in logstash.conf. By default it is
+/home/kali/Desktop/testdata.ndjson
+
+testdata.ndjson has been included in the repo
