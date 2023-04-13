@@ -53,7 +53,7 @@ path.logs: /var/log/elasticsearch/
 # By default Elasticsearch is only accessible on localhost. Set a different
 # address here to expose this node on the network:
 #
-#network.host: 192.168.0.1
+network.host: 0.0.0.0
 #
 # By default Elasticsearch listens for HTTP traffic on the first free port it
 # finds starting at 9200. Set a specific HTTP port here:
@@ -80,3 +80,5 @@ path.logs: /var/log/elasticsearch/
 # Allow wildcard deletion of indices:
 #
 #action.destructive_requires_name: false
+
+xpack.security.http.ssl.enabled: false
