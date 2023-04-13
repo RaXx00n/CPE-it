@@ -12,7 +12,9 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-<b>SETTING UP THE ELK STACK</b>
+<b>Installing ELK Stack</b>
+
+NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root.
 
 <b>Installing Elasticsearch</b>
 
@@ -41,31 +43,22 @@ Test runnng logstash from the installation directory (by default /usr/share/logs
 
 <code>./bin/logstash -f /usr/share/logstash/logstash.conf --path.settings /etc/logstash</code>
 
-If you encounter permissions errors you may need to open permissons with the following commands:
-
-<code>chmod -R 777 /var/log/logstash
-chmod -R 777 /var/lib/logstash</code>
+If you encounter permissions errors you may need to open permissons to /var/lib/logstash/ and /var/log/logstash/
 
 Finally, Logstash will require the Filter Fingerprint plugin. Navigate to /usr/share/logstash/ and run:
 
 <code>./bin/logstash-plugin install logstash-filter-fingerprint</code>
 
-If you get an error about not being able to write to Gemfile you will need to open permissions with:
+If you get an error about not being able to write to Gemfile you will need to open permissions to Gemfile and Gemfile.lock
 
-<code>chmod 777 Gemfile
-chmod 777 Gemfile.lock </code>
-
-
-<b>Installing Kibana</b>
+Install Kibana from the repo:
 
 <code>apt-get install kibana</code>
 
 Test running Kibana from the installation directory (by default /usr/share/kibana) with the command:
 <code>./bin/kibana</code>
 
-If you encounter permissions errors you may need to open permissions with the following command:
-
-<code>chmod -R 777 /usr/share/kibana/</code>
+If you encounter permissions errors you may need to open permissions to /usr/share/kibana/
 
 If you are missing Kibana.yml, it can be found at the Kibana repository here: [repo]
 and placed at:
