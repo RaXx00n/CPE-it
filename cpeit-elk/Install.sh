@@ -35,4 +35,5 @@ Installing the Fingerprint filter for Logstash...
 
 sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-fingerprint
 
+mkdir /usr/share/kibana/config/
 sudo cp kibana.yml /usr/share/kibana/config/
