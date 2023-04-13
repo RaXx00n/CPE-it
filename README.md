@@ -12,11 +12,15 @@ CPEit consists of two components under development:
   by setting the Agent to run on intervals and Elastic to generate alerts.
   
   
-<b>Installing ELK Stack</b>
+<b>Install and configure the ELK Stack</b>
 
 NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root.
 
-<b>Installing Elasticsearch</b>
+
+
+
+
+Install Elasticsearch from the repo:
 
 <code>apt-get install elasticsearch</code>
 
