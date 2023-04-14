@@ -48,7 +48,7 @@ sudo echo "
 Importing Kibana visualizations...
 
 "
-
+sudo apt-get install npm
 npm install -g @kbn/cli
 kibana import CPEit.ndjson
 
