@@ -40,5 +40,7 @@ sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-finger
 mkdir /usr/share/kibana/config/
 sudo cp kibana.yml /usr/share/kibana/config/
 
+systemctl start kibana
+
 npm install -g @kbn/cli
 kibana import CPEit.ndjson
