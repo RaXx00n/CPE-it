@@ -29,18 +29,45 @@ sudo systemctl start elasticsearch.service
 
 sudo echo "
 
-Installing the Fingerprint filter for Logstash...
+Installing some filters for Logstash...
 
 "
 sudo cp logstash.conf /usr/share/logstash/logstash.conf
 sudo chmod 777 /usr/share/logstash/logstash.conf
 
 sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-fingerprint
+sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-xml
 
 mkdir /usr/share/kibana/config/
 sudo cp kibana.yml /usr/share/kibana/config/
 
 systemctl start kibana
 
+sudo echo "
+
+Importing Kibana visualizations...
+
+"
+
 npm install -g @kbn/cli
 kibana import CPEit.ndjson
+
+sudo echo "
+
+CPEit has been installed, please follow the instructions to authenticate Kibana with Elasticsearch...
+
+1. Paste the password from the following command into /usr/share/logstash/logstash.conf
+/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic
+
+
+2. Paste the enrollment token from the following command into http://127.0.0.1:5601
+/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana
+
+3. Paste the Kibana verification code from the following command back into the webpage when asked:
+sudo /usr/share/kibana/bin/kibana-verification-code
+
+4. Begin logstash with: /usr/share/logstash/bin/logstash -f /usr/share/logstash/logstash.conf --path.settings /etc/logstash
+
+5. Navigate to http://127.0.0.1:5601 to view your ingested data! Enjoy!
+
+"
