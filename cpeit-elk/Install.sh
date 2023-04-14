@@ -41,18 +41,7 @@ sudo bash /usr/share/logstash/bin/logstash-plugin install logstash-filter-xml
 mkdir /usr/share/kibana/config/
 sudo cp kibana.yml /usr/share/kibana/config/
 
-systemctl start kibana
-
-sudo echo "
-
-Importing Kibana visualizations...
-
-"
-sudo apt-get install npm
-npm install -g @kbn/cli
-kibana import CPEit.ndjson
-
-sudo echo "
+sudo systemctl start kibana
 
 CPEit has been installed, please follow the instructions to authenticate Kibana with Elasticsearch...
 
