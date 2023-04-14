@@ -88,7 +88,7 @@ Note the password generated from running:
  
  <code>/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana</code>
  
- Navigate to 127.0.0.1:5601 and paste this token in, and then run the below for the Kibana verification code:
+ Navigate to http://127.0.0.1:5601 and paste this token in, and then run the below for the Kibana verification code:
  
  <code>sudo /usr/share/kibana/bin/kibana-verification-code</code>
 
@@ -97,4 +97,4 @@ This is the code to connect Kibana back to Elasticsearch.
 Now all three components of the stack should be working and connected to each other and digesting the default path set in logstash.conf. By default it is
 /home/kali/Desktop/testdata.ndjson
 
-testdata.ndjson has been included in the repo
+[testdata.ndjson](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/testdata.ndjson) has been included for testing!
