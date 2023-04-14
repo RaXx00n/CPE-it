@@ -14,7 +14,7 @@ CPEit consists of two components under development:
   
 ## <b>Install the ELK Stack</b>
 
-<b> NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root. You can then skip to "configure ELK stack for authentication". </b>
+<b> NOTE: This process has now been automated with the script cpeit-elk/install.sh. Files can be uninstalled and cleaned with the script cpeit-elk/uninstall.sh. The scripts must be run as root. You can then skip to [Configuring the ELK stack for authentication](https://github.com/RaXx00n/cpeit/blob/main/README.md#configure-the-elk-stack-for-authentication). </b>
 
 The manual section below exists for troubleshooting and reference in potential script changes. It is also missing some steps.
 
