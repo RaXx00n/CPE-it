@@ -30,12 +30,11 @@ Test running elasticsearch by navigating to the installation path (the example o
 and run 
 <code>./bin/elasticsearch</code>
 
-If you get errors for missing config files, the default elasticsearch.yml and log4j2.properties files can be found in the Elasticsearch repo here: [repo]
-and placed at: 
+If you get errors for missing config files, the default [elasticsearch.yml](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/elasticsearch.yml) and [log4j2.properties](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/log4j2.properties) files can be found in cpeit/cpeit-elk and should be copied to: 
 /usr/share/elasticsearch/log4j2.properties
 /usr/share/elasticsearch/elasticsearch.yml
 
-You may need to configure elasticsearch.yml with the @path.data@ and @path.logs@ variables. 
+You will need to configure elasticsearch.yml with the @path.data@ and @path.logs@ variables. 
 /usr/share/elasticsearch/data and /var/log/elasticsearch/ can be used.
 
 Verify Elasticsearch is running by navigating to http://localhost:9200 in your web browser. You should see a JSON response that contains basic information about your installation.
@@ -43,6 +42,8 @@ Verify Elasticsearch is running by navigating to http://localhost:9200 in your w
 <b>Install Logstash:</b>
 
 <code>apt-get install logstash</code>
+
+Configure [logstash.conf](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/logstash.conf) at /usr/share/logstash.conf
 
 Test runnng logstash from the installation directory (by default /usr/share/logstash/) with the command:
 
@@ -65,7 +66,7 @@ Test running Kibana from the installation directory (by default /usr/share/kiban
 
 If you encounter permissions errors you may need to open permissions to /usr/share/kibana/
 
-If you are missing Kibana.yml, it can be found at the Kibana repository here: [repo]
+If you are missing [Kibana.yml](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/kibana.yml), it can be found in cpeit-elk. 
 and placed at:
 <code>/usr/share/kibana/config/kibana.yml</code> (you may need to create this directory)
 
