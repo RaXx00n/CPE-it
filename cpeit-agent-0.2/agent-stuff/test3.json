@@ -1,0 +1,79 @@
+[
+    {
+        "DisplayName": "Visual Studio Professional 2022 LTSC 17.0",
+        "DisplayVersion": "17.0.13",
+        "Publisher": "Microsoft Corporation",
+        "InstallDate": "20220831",
+        "InstallLocation": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional",
+        "UninstallString": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" uninstall --installPath \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\"",
+        "Name": "Visual Studio Professional 2022 LTSC 17.0",
+        "Version": "17.0.13",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "AnyDesk",
+        "DisplayVersion": "ad 7.1.11",
+        "Publisher": "AnyDesk Software GmbH",
+        "InstallDate": null,
+        "InstallLocation": "\"C:\\Program Files (x86)\\AnyDesk\"",
+        "UninstallString": "\"C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe\" --uninstall",
+        "Name": "AnyDesk",
+        "Version": "ad 7.1.11",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "FreeMind",
+        "DisplayVersion": "1.0.1",
+        "Publisher": null,
+        "InstallDate": "20221215",
+        "InstallLocation": "C:\\Program Files (x86)\\FreeMind\\",
+        "UninstallString": "\"C:\\Program Files (x86)\\FreeMind\\unins000.exe\"",
+        "Name": "FreeMind",
+        "Version": "1.0.1",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "FileZilla 3.60.2",
+        "DisplayVersion": "3.60.2",
+        "Publisher": "Tim Kosse",
+        "InstallDate": null,
+        "InstallLocation": "C:\\Program Files\\FileZilla FTP Client",
+        "UninstallString": "\"C:\\Program Files\\FileZilla FTP Client\\uninstall.exe\"",
+        "Name": "FileZilla 3.60.2",
+        "Version": "3.60.2",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "GNU Privacy Guard",
+        "DisplayVersion": "2.3.8",
+        "Publisher": "The GnuPG Project",
+        "InstallDate": null,
+        "InstallLocation": "C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG",
+        "UninstallString": "\"C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\gnupg-uninstall.exe\"",
+        "Name": "GNU Privacy Guard",
+        "Version": "2.3.8",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "Google Chrome",
+        "DisplayVersion": "111.0.5563.149",
+        "Publisher": "Google LLC",
+        "InstallDate": "20230413",
+        "InstallLocation": "C:\\Program Files\\Google\\Chrome\\Application",
+        "UninstallString": "\"C:\\Program Files\\Google\\Chrome\\Application\\111.0.5563.149\\Installer\\setup.exe\" --uninstall --channel=stable --system-level --verbose-logging",
+        "Name": "Google Chrome",
+        "Version": "111.0.5563.149",
+        "ProviderName": "Programs"
+    },
+    {
+        "DisplayName": "Gpg4win (4.0.4)",
+        "DisplayVersion": "4.0.4",
+        "Publisher": "The Gpg4win Project",
+        "InstallDate": null,
+        "InstallLocation": "C:\\Program Files (x86)\\Gpg4win",
+        "UninstallString": "\"C:\\Program Files (x86)\\Gpg4win\\gpg4win-uninstall.exe\"",
+        "Name": "Gpg4win (4.0.4)",
+        "Version": "4.0.4",
+        "ProviderName": "Programs"
+    }
+]
