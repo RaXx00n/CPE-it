@@ -11,7 +11,7 @@ CPEit consists of two components under development:
 
 ### <b>How To Use The Agent (For End-Users, Students, Educators, Individual Machines)</b>
 
-1. [Obtain an API Key from NVD.](https://nvd.nist.gov/developers/request-an-api-key) (Note: You don't need an API Key for using only the inventory builder functionality of this tool which will just gather information about your installed software, however for building an NVD inventory with all CPE and CPE of that software the key is required. 
+1. [Obtain an API Key from NVD](https://nvd.nist.gov/developers/request-an-api-key) (Note: You don't need an API Key for using only the inventory builder functionality of this tool which will just gather information about your installed software, however for building an NVD inventory with all CPE and CPE of that software the key is required.) 
 
 2. Paste the API key into line 14 of NVD_API_CPE.py 
 
