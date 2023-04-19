@@ -61,7 +61,6 @@ sortedcontainers==2.4.0
 soupsieve==2.4.1
 stack-data==0.6.2
 threadpoolctl==3.1.0
-tkinterweb==3.18.1
 traitlets==5.9.0
 trio==0.22.0
 trio-websocket==0.10.2
