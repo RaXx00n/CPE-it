@@ -63,7 +63,9 @@ You could also deploy this agent over a network and run it using the BUILD_INVEN
 
 [testdata.ndjson](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/testdata.ndjson) has been included for testing!
 
-9. In order to ingest your own data, you will need to configure senddata.py in the agent's files to one of the Logstash pipelines.
+9. To install the CPEit data view (under development), [follow these instructions](https://www.elastic.co/guide/en/kibana/current/managing-saved-objects.html) to import SavedObjectsExport.ndjson
+
+10. In order to ingest your own data, you will need to configure senddata.py in the agent's files to one of the Logstash pipelines.
 
 By default the pipeline inputs are: 
 
