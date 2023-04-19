@@ -71,12 +71,12 @@ By default the pipeline inputs are:
 
 path => "/home/kali/Desktop/official_cpe_dictionary_v2.3.xml"
 
-^ Download the CPE Dictionary from the NVD website and place it here to ingest the CPE dictionary for faster, offline searching using Elasticsearch. This can take some time to build as there will be over one million records.
+  ^ Download the CPE Dictionary from the NVD website and place it here to ingest the CPE dictionary for faster, offline searching using Elasticsearch. This can take some time to build as there will be over one million records.
 
 path => "/home/kali/Desktop/testdata.ndjson"
 
-^ This is the data including for testing.
+  ^ This is the data including for testing.
 
 port => 5000
 
-^ This is where to point your senddata.py or other scripts to for ingesting Got-Combined.json
+  ^ This is where to point your senddata.py or other scripts to for ingesting Got-Combined.json
