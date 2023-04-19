@@ -1,5 +1,5 @@
 
-# <b> CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
+## <b> CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
 
 
 CPEit consists of two components under development:
@@ -26,7 +26,7 @@ CPEit consists of two components under development:
 
  <code>/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic</code>
  
-4. Copy and paste the password into the password field in /usr/share/logstash/logstash.conf
+4. Copy and paste the password into the password fields in /usr/share/logstash/logstash.conf
  
 5. Note the enrollment token generated from the command below:
  
@@ -43,4 +43,18 @@ CPEit consists of two components under development:
 
 [testdata.ndjson](https://github.com/RaXx00n/cpeit/blob/main/cpeit-elk/testdata.ndjson) has been included for testing!
 
-9. In order to ingest your own data, you will need to configure senddata.py in the agent's files to one of the Logstash pipelines. 
+9. In order to ingest your own data, you will need to configure senddata.py in the agent's files to one of the Logstash pipelines.
+
+By default the pipeline inputs are: 
+
+path => "/home/kali/Desktop/official_cpe_dictionary_v2.3.xml"
+
+^ Download the CPE Dictionary from the NVD website and place it here to ingest the CPE dictionary for faster, offline searching using Elasticsearch. This can take some time to build as there will be over one million records.
+
+path => "/home/kali/Desktop/testdata.ndjson"
+
+^ This is the data including for testing.
+
+port => 5000
+
+^ This is where to point your senddata.py or other scripts to for ingesting Got-Combined.json
