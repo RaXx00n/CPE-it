@@ -2,7 +2,7 @@
 ## <b> CPEit - Common Platform Enumeration Inventory Tools - 2023 CSI Project</b>
 
 
-CPEit is a tool for users and administrators to learn more about the software installed on their environments with easy-to-use, preconfigured tools. The project makes use of the [National Vulnerability Database API](https://nvd.nist.gov/developers/vulnerabilities) provided by the National Institute for Standards and Technology, and the [NVDLib Python Library](https://nvdlib.com/en/latest/) published by Vehemoth. The project is open source and open to collaboration from anyone who is interested! 
+CPEit is a tool for users and administrators to learn more about the software installed on their environments with easy-to-use, preconfigured tools. The project makes use of the [National Vulnerability Database API](https://nvd.nist.gov/developers/vulnerabilities) provided by the National Institute for Standards and Technology, and the [NVDLib Python Library](https://nvdlib.com/en/latest/) published by Vehemoth. Thank you for making it possible! The project is open source and open to collaboration from anyone who is interested! 
 
 The tool consists of two components:
 
