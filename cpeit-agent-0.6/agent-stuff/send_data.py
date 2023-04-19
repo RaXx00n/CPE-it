@@ -1,7 +1,7 @@
 import requests
 
-# Define the Logstash listener URL
-logstash_url = 'http://192.168.1.136:5000/'
+# You will need to change this address to your elk stack if you want to send data!
+logstash_url = 'http://[ YOUR ELK ADDRESS HERE]:5000/'
 
 # Define the path to the JSON file to send
 json_file_path = 'Got-Combined.json'
