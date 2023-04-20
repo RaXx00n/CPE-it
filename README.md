@@ -11,7 +11,7 @@ The tool consists of two components:
 
 ### <b>How To Use The Agent (For End-Users, Students, Educators, Individual Machines)</b>
 
-Note on API Key: It may be necessary to [obtain an NVD API Key from NIST](https://nvd.nist.gov/developers/request-an-api-key), however the included API key should work for now as the tool is only being tested by a small group of people. If you do need to change the API key to your own, you will be putting it in line 14 of NVD_API_CPE.py and line 19 of NVD_API_CVE2.py in the cpeit-agent-0.6/agent-stuff/ directory.
+Note on API Key: The included API key should work for now as the tool is only being tested by a small group of people, however in the future it may be necessary to [obtain your own NVD API Key from NIST](https://nvd.nist.gov/developers/request-an-api-key). If you do need to change the API key, you will be putting it in line 14 of NVD_API_CPE.py and line 19 of NVD_API_CVE2.py in the cpeit-agent-0.6/agent-stuff/ directory.
 
 
 1. Run Launcher.bat to launch the graphical user interface. 
