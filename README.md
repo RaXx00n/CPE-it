@@ -11,21 +11,18 @@ The tool consists of two components:
 
 ### <b>How To Use The Agent (For End-Users, Students, Educators, Individual Machines)</b>
 
-1. [Obtain an API Key from NVD](https://nvd.nist.gov/developers/request-an-api-key) (Note: You don't need an API Key for using only the inventory builder functionality of this tool which will just gather information about your installed software, however for building an NVD inventory with all CPE and CPE of that software the key is required.) 
+Note on API Key: It may be necessary to [obtain an NVD API Key from NIST](https://nvd.nist.gov/developers/request-an-api-key), however the included API key should work for now as the tool is only being tested by a small group of people. If you do need to change the API key to your own, you will be putting it in line 14 of NVD_API_CPE.py and line 19 of NVD_API_CVE2.py in the cpeit-agent-0.6/agent-stuff/ directory.
 
-2. Paste the API key into line 14 of NVD_API_CPE.py 
 
-3. Paste the API key into line 19 of NVD_API_CVE2.py
+1. Run Launcher.bat to launch the graphical user interface. 
 
-4. Run Launcher.bat to launch the graphical user interface. 
+2. Click "Build Inventory" to gather the software information and display it in the GUI.
 
-5. Click "Build Inventory" to gather the software information and display it in the GUI.
+3. Click "Build NVD Report" to gather CPE strings and known vulnerabilities for the software.
 
-6. Click "Build NVD Report" to gather CPE strings and known vulnerabilities for the software.
+4. Click on a link in the CPE or CVE rows to be taken to the NVD webpage for that product or vulnerability!
 
-7. Click on a link in the CPE or CVE rows to be taken to the NVD webpage for that product or vulnerability!
-
-8. Click "Display NVD Report" at any time to go back to the report.
+5. Click "Display NVD Report" at any time to go back to the report.
 
 If you wish to export the data, Got-Combined.JSON has all of the data up to step 6, and Cleaned.JSON has all of the data up to step 8 (with CPE and CVE). There is a script called senddata.py that is configured to send the data to a running pipeline pre-configured in the ELK stack on port 5000, you will need to add your own address.
 
