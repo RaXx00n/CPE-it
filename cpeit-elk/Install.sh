@@ -43,6 +43,8 @@ sudo cp kibana.yml /usr/share/kibana/config/
 
 sudo systemctl start kibana
 
+sudo echo "
+
 CPEit has been installed, please follow the instructions to authenticate Kibana with Elasticsearch...
 
 1. Paste the password from the following command into /usr/share/logstash/logstash.conf
