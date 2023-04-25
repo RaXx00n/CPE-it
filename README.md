@@ -3,7 +3,7 @@
 
 CPEit is a tool for users and administrators to learn more about the software installed on their environments with easy-to-use, preconfigured tools. The project makes use of the [National Vulnerability Database API](https://nvd.nist.gov/developers/vulnerabilities) provided by the National Institute for Standards and Technology, and the [NVDLib Python Library](https://nvdlib.com/en/latest/) published by Vehemoth. Thank you for making it possible! The project is open source and open to collaboration from anyone who is interested! 
 
-
+### IMPORTANT: Requires Python 3.8 or above installed, fully tested with 3.10
 
 The tool consists of two components:
 
