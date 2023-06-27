@@ -15,14 +15,18 @@ for obj in data:
     # Split DisplayName into words, omitting DisplayVersion substring and special characters
     display_name = re.sub(r'\(.*?\)', '', display_name)  # Remove parentheses and their contents
     display_name = re.sub(r'[^A-Za-z0-9 ]+', '', display_name)  # Remove special characters
-    display_name = display_name.replace(display_version, '')  # Remove DisplayVersion substring
+
+    if display_version is not None:
+        display_name = display_name.replace(display_version, '')  # Remove DisplayVersion substring
+
     words = display_name.split()[:3]  # Get first three words
 
     # Calculate Levenshtein distance between DisplayVersion and each word in DisplayName
     for word in words:
-        distance = Levenshtein.distance(display_version, word)
-        if distance <= 2:  # If word is similar to DisplayVersion, omit it
-            words.remove(word)
+        if display_version is not None:
+            distance = Levenshtein.distance(display_version, word)
+            if distance <= 2:  # If word is similar to DisplayVersion, omit it
+                words.remove(word)
 
     # Combine remaining words into Keyword, omitting special characters
     keyword = ' '.join(words)
