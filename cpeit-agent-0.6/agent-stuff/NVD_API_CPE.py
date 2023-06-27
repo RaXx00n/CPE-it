@@ -19,6 +19,6 @@ for obj in data:
     # Add the potential CPEs list to the current object as a new key/value pair
     obj['PotentialCPE'] = potential_cpes
 
-# Save the updated data to test4.json
+# Save the updated data to Got-CPE.json
 with open('Got-CPE.json', 'w') as f:
     json.dump(data, f, indent=2)
