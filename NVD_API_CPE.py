@@ -11,7 +11,7 @@ for obj in data:
     keyword = obj['Keyword']
 
     # Use the nvdlib to search for CPEs matching the DisplayName
-    results = nvdlib.searchCPE(keywordSearch=keyword, key='3bbbf3ec-80a1-42ff-bbd7-6ef739f7c059 ', delay=0.6)
+    results = nvdlib.searchCPE(keywordSearch=keyword, key='63b875a4-a426-40ea-b97d-add230444390', delay=0.6)
 
     # Create a list of potential CPEs from the search results
     potential_cpes = [cpe.cpeName for cpe in results]
