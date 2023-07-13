@@ -16,7 +16,7 @@ for obj in data:
     cpeID = obj['EXACTCPE']
 
     # Use the nvdlib to search for CPEs matching the DisplayName
-    results = nvdlib.searchCVE(cpeName=cpeID, key='3bbbf3ec-80a1-42ff-bbd7-6ef739f7c059 ', delay=0.6)
+    results = nvdlib.searchCVE(cpeName=cpeID, key='63b875a4-a426-40ea-b97d-add230444390', delay=0.6)
 
     # Create a list of potential CVEs from the search results
     CVEs = [cve.id for cve in results]
